@@ -2,12 +2,22 @@
 
 #pragma once
 
+#include "VGEGlobeControl.h"
+
 using namespace System;
 
 namespace VGEEarthCLR {
 
-	public ref class Class1
+	public ref class GlobeControl
 	{
-		// TODO:  在此处添加此类的方法。
+	public:
+		GlobeControl();
+		~GlobeControl();
+
+	public:
+		void initEarth();
+
+	private:
+		VGE::Globe::VGEGlobeControl* globeControl;
 	};
 }

@@ -24,6 +24,48 @@
     <ClInclude Include="resource.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="VGEGlobeControl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VGEGlobe.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VGEEnum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VGE3DAnalysis.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VGEAnimationPages.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VGE3DMeasure.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VGEGeoData.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VGECamera.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VGEDataManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VGELayer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VGELatLonGrid.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VGEOcean.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VGEControl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="VGEEnvironment.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="VGEEarthCLR.cpp">
